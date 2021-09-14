@@ -1,0 +1,35 @@
+What is t-io
+
+T-io characteristics
+
+1. It is a network programming framework based on Java AIO, which is similar to netty. Its mission is to make the world have no network programs that are difficult to develop.
+
+2. Developing IM, TCP private protocol, RPC, game server, push service, real-time monitoring, Internet of things, UDP and socket based on TiO core will become unprecedentedly simple.
+
+3. In addition to TiO core, t-io family also includes TiO websocket server, TiO HTTP server, TiO UDP server, TiO webpack core, TiO flash policy server, etc. the following are application layer components developed based on TiO core.
+
+4. T-io family members:
+
+TiO core: a network programming framework based on Java AIO. Usage example: TiO study
+
+TiO websocket server: a websocket server developed based on TiO core. Usage example: TiO websocket Showcase
+
+TiO HTTP server: http server developed based on TiO core. Usage example: TiO HTTP server Showcase
+
+TiO UDP server: a UDP server developed based on TiO core. Usage example: TiO UDP Showcase
+
+TiO websocket client: a websocket client developed based on TiO core.
+
+TiO web pack core: a tool for compiling and compressing JS / CSS / HTML based on TiO core.
+
+Please refer to: https://www.tiocloud.com/doc/tio/85? pageNumber=1
+
+The most successful works of t-io authors are:
+
+Instant messaging software: Tan chat（ https://www.tiocloud.com/tioim/home ）,provide source code sales
+
+Video conference software: Yi Lijing（ https://www.tiocloud.com/2/product/videoMeeting.html ）
+
+There are more than 10000 successful applications developed by other companies based on t-io:
+
+https://www.tiocloud.com/2/case/index.html
